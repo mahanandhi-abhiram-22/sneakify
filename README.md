@@ -1,5 +1,3 @@
-Here’s a **README** description for your **Sneakify** GitHub repository based on **HTML & CSS**:  
-
 ---
 
 # **Sneakify – E-Commerce Sneaker Store**  
@@ -29,4 +27,3 @@ Contributions are welcome! Feel free to improve **Sneakify** by refining styles,
 
 ---  
 
-Would you like a **demo GIF or image** for your README? 🚀
