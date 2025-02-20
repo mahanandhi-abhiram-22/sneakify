@@ -1,7 +1,8 @@
 # **Sneakify – E-Commerce Sneaker Store**  
 
 **Sneakify** is a sleek and modern **e-commerce sneaker store** built using **HTML & CSS**. It features an interactive UI with smooth hover effects, a stylish gradient background, and a responsive design for an immersive shopping experience.  
-![Alt Text](https://drive.google.com/file/d/19_5K4cka2gtaw-2v-dyxE-6DljGLNx1Q/view?usp=sharing)## **Features**  
+
+## **Features**  
 ✅ **Modern & Responsive Design** – Works seamlessly on all devices  
 ✅ **Hover Zoom Effect** – Hover over a product for **1 second** to zoom in and view details  
 ✅ **Gradient Background** – Skyblue to black **linear/radial gradient** for a stylish look  
