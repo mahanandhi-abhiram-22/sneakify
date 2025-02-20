@@ -1,6 +1,3 @@
-
----
-
 # **Sneakify – E-Commerce Sneaker Store**  
 
 **Sneakify** is a sleek and modern **e-commerce sneaker store** built using **HTML & CSS**. It features an interactive UI with smooth hover effects, a stylish gradient background, and a responsive design for an immersive shopping experience.  
@@ -20,11 +17,3 @@
 1. **Clone the repository**  
    ```sh
    git clone https://github.com/yourusername/sneakify.git
-   ```  
-2. **Open `index.html` in your browser**  
-
-## **Contributing**  
-Contributions are welcome! Feel free to improve **Sneakify** by refining styles, adding animations, or making it more interactive.  
-
----  
-
